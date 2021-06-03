@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most straunge, rare, and horrible murther committed by a Frenchman of the age of too or three and twentie yeares who hath slaine and most cruelly murthered three seuerall persons, to wit, the inkeeper or tauerner of Hectot vpoon the ... nere vnto Roane in Normandy, with the wife and childe of the same tauerner, and also at his departure did set fire on the house. Wherein also is declared and shewed the terrible and worthy pupnishment done and executed vppon him for the same, in Roane aforesaide. Done out of Frenche into English by Æuesham. 1586.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13644</idno><idno type="EEBO-CITATION">99849939</idno>
+  <idno type="VID">177929</idno>
+  <idno type="EEBO-PROQUEST">2240868375</idno>
+  <idno type="STC">STC 11377</idno>
+  <idno type="STC">ESTC S114716</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849939e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1270:9b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most straunge, rare, and horrible murther committed by a Frenchman of the age of too or three and twentie yeares who hath slaine and most cruelly murthered three seuerall persons, to wit, the inkeeper or tauerner of Hectot vpoon the ... nere vnto Roane in Normandy, with the wife and childe of the same tauerner, and also at his departure did set fire on the house. Wherein also is declared and shewed the terrible and worthy pupnishment done and executed vppon him for the same, in Roane aforesaide. Done out of Frenche into English by Æuesham. 1586.</title>
+                  <author>Aevesham.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Purfoote, and are to bee solde at his shoppe without Newgate, ouer agaynste Saincte Sepulchers Churche,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1586]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Corpus Christi College (University of Oxford). Library.</note>
+                  <note>With: A merry, pleasant, and delectable historie, betweene K. Edward the fourth, a[n]d a tanner of Tamworth. At London : Printed by W. White, 1613.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:177929:1"/>
+            <p>
+               <figure>
+                  <figDesc>a man on horseback and two deer</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:177929:1"/>
+            <p>
+               <hi>¶ A most straunge, rare, and horrible murther committed by a French<g ref="char:EOLhyphen"/>man</hi> of the age of too or three and twen<g ref="char:EOLunhyphen"/>tie <hi>yeares, who hath slaine and most cruelly mur<g ref="char:EOLhyphen"/>thered</hi> three seuerall persons, to wit, the Inkee<g ref="char:EOLhyphen"/>per or Tauerner of <hi>Hectot</hi> vppon the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere vnto <hi>Roane in Nomandy, with the wife and childe</hi> of the same Tauerner, and also at his de<g ref="char:EOLhyphen"/>parture did set fire on the house.</p>
+            <p>Wherein also is declared and shewed the terrible and worthy punishment done and executed vppon him for the same, in <hi>Roane</hi> aforesaide. Done out of Frenche into English by <hi>Aeuesham. 1586.</hi>
+            </p>
+            <p>Imprinted at London by Thomas Purfoote, and are to bee solde at his shoppe without Newgate, ouer agavnste Saincte Se<g ref="char:EOLhyphen"/>pulchers Churche.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177929:2"/>
+            <head>To his louing Cossen, M. Richard Russell Marchant, <hi>E.</hi> wisheth much health, and a prosperous estate to the pleasure of God. &amp;c.</head>
+            <p>FOrasmuch good tossen, as the rare exam<g ref="char:EOLhyphen"/>ple of so terrible a fact, sent vnto you, and written in the french tongue, hath happe<g ref="char:EOLhyphen"/>ned vnto my handes by youre meanes, I coulde not but translate the same into our eng<g ref="char:EOLhyphen"/>lish languedge, aswell to giue you knowledge of that which was sent vnto you, as also to make plaine and open to all men, the moste straunge, rare, and horrible facte, latelye committed by a yong man of the age of two or three and twenty yeares, as hereafter shall appeare, the executi<g ref="char:EOLhyphen"/>on and punishment, of whom, I wish may be an example to all such as are so vnmindfull of God and godlinesse or that are any waye tempted to offend in the like, praying God to blesse &amp; keepe vs in health, and graunt all men to haue this worthy saying in memory, whatsoeuer thou ta<g ref="char:EOLhyphen"/>kest in hand, remember the end, and thou shalt neuer doe amisse, written this eight of March. 1586.</p>
+            <closer>
+               <signed>Your louing kinsman and faithfull frende. Aeueshaem.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177929:2"/>
+            <head>A most strange, rare, and horrible murther commytted by a Frenchman, who killed three senerall <hi>
+                  <hi>persons, burned the house, and for his wicked facte was punished</hi> with a rare and strange kind of tor<g ref="char:EOLhyphen"/>ment at hereafter shall appeare.</hi> Englished by Ae. 1586.</head>
+            <p>
+               <seg rend="decorInit">S</seg>trange and rare is the newes whiche of late I had know<g ref="char:EOLhyphen"/>ledge of, being written in the French toonge and sent to a Marchant of London from <hi>Roane</hi> in <hi>Normandye</hi> within the dominions of the french Kinge, the which good rea<g ref="char:EOLhyphen"/>ders, I coulde not (hauing leasurable time) but transtate out of french<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into english &amp; is not muche vnlike the late horrible murther committed by a yong woman, as by bookes therof lately set out it doth appeare: And plainely to de<g ref="char:EOLunhyphen"/>clare the foresaid murther, it happened of late at a place called <hi>Hector</hi> neere vn<g ref="char:EOLunhyphen"/>to <hi>Roane</hi> in <hi>Normandy,</hi> which is in the dominions of the french Kinge, that a
+<pb facs="tcp:177929:3"/>yong man of the age of too or three and twenty yeres, being maried &amp; keeping house, &amp; bearing malice in his mind &amp; in<g ref="char:EOLunhyphen"/>dignation in his hart, against a neigh<g ref="char:EOLhyphen"/>boure of his, who kept as it were a vit<g ref="char:EOLhyphen"/>ling house or Tauerne, where in he had wine to sel, according to the maner of y<seg rend="sup">e</seg> countrey, betwene whom there ought to haue remained neighborly loue and frendship, but this yoong man forget<g ref="char:EOLhyphen"/>ting that, and the commaundements of God also, where it is said, <hi>Loue thy neighbour as thy selfe,</hi> &amp; do vnto al men as thou wouldst be done vnto, yea and also vtterly forgetting a further saying which is, he that striketh with y<seg rend="sup">e</seg> sword shall perish by the same, &amp; also forget<g ref="char:EOLhyphen"/>ting a further commandement whiche is, <hi>Thou shalt not kill.</hi> For S. Paule saithe no murtherer shall inherite the kingdom of heuen, by which ouersight and forgetfulnes of this yong man, he being tempted &amp; earnestly bent to iniu<g ref="char:EOLhyphen"/>ry his neighbour, &amp; to reuenge some se<g ref="char:EOLhyphen"/>cret hatred, which hee bare towardes him and his, &amp; pondering manye times
+<pb facs="tcp:177929:3"/>with himselfe, how to bring this his e<g ref="char:EOLhyphen"/>uill purpose to an end, he being wholly minded to accomplishe the same, went vpon twelfe day last past, earlye in the morning, leauing his wife in bed, and so put in practise his euill intent, and re<g ref="char:EOLunhyphen"/>sorting to his neighbours house, and knocking at the dore, his honest neigh<g ref="char:EOLhyphen"/>bor then thinking no hurt receiued him into his house, where he saide, neighbor draw me a pint of wine, who at his re<g ref="char:EOLhyphen"/>quest called presently to his wife, wil<g ref="char:EOLhyphen"/>ling her to go draw a pint of wine, and bring it to this our neighbor, this wo<g ref="char:EOLhyphen"/>man obeying her husbands commaun<g ref="char:EOLhyphen"/>dement, toke the pot, &amp; went into the sel<g ref="char:EOLunhyphen"/>ler or caue, &amp; this euill man remaining in the meane timealone, in y<seg rend="sup">e</seg> company of her husbād, hauing a hatchet vnder his arme, sodenly toke y<seg rend="sup">e</seg> same hatchet &amp; therewithall cleaued this Tauerners head as it were in twaine,
+<note place="margin">the Ta<g ref="char:EOLhyphen"/>uerner<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> killed.</note> in such ma<g ref="char:EOLhyphen"/>ner &amp; sort, y<seg rend="sup">t</seg> he neuer spake nor styrred against him: And that done sodenly en<g ref="char:EOLunhyphen"/>tred into the seller,
+<note place="margin">his wif<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> killed.</note> running most furi<g ref="char:EOLhyphen"/>usly to the woman who was drawing
+<pb facs="tcp:177929:4"/>the wine, &amp; there did the like murther vpon her, and from thence, departing vp againe,
+<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> childe <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>led.</note> finding their little childe in his way, toke the same and killed it al<g ref="char:EOLhyphen"/>so. And thus hauing accomplished his wicked desire, he could not ther withal be content but yet for a further reuēge<g ref="char:EOLhyphen"/>ment, to asswage the mallice of his sto<g ref="char:EOLhyphen"/>macke, he toke fire and kindled y<seg rend="sup">e</seg> same, in such sort that he burned the house of that his destroied neighbor, &amp; so leauing it in flame and burning, returned back to his own house, bearing a sober coun<g ref="char:EOLhyphen"/>tenāce &amp; making sēblance of an honest man, returned again in bed to his wife, who knew nothing therof, but almigh<g ref="char:EOLunhyphen"/>ty God who is the reuenger of all iniu<g ref="char:EOLhyphen"/>ries, &amp; that will not suffer such vnwon<g ref="char:EOLhyphen"/>ted murthers to escape vnpunished the selfe same daye that this wicked deede was done, he being suspected by the of<g ref="char:EOLhyphen"/>ficers therabouts, was by authority of Iustice presently apprehended, &amp; there in the presence of them all confessed the fact, and from thence was conueied to <hi>Roane,</hi> there to receaue such condinge
+<pb facs="tcp:177929:4"/>punishment, as he deserued for y<seg rend="sup">e</seg> same. And there remaining in prison till now of late at an assembly of Iudges &amp; Iu<g ref="char:EOLhyphen"/>stices was found guilty,
+<note place="margin">his pu<g ref="char:EOLhyphen"/>nishme<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> &amp; by law was condempned to do penance with torch in hand to be more remarked &amp; known &amp; after that to bee trayned or drawne on the earth to the place of execution, whiche was appointed in an ordinarye place called the old market in <hi>Roane,</hi> &amp; there to be executed to the example of all others, &amp; to be a right terror &amp; feare to all the beholders, &amp; so in presence of them all being bound vnto the place of execution, he with nippers and pincers whot &amp; sharp,
+<note place="margin">a fearef<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; terrib<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> death.</note> was there pinched &amp; nip<g ref="char:EOLunhyphen"/>ped by little &amp; little &amp; so one part of the flesh torne from the other, with the fore saide pincers &amp; nippers red &amp; glowing whot, aswel on y<seg rend="sup">e</seg> buttocks &amp; brests, as armes &amp; other places.
+<note place="margin">his ioin<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> broken.</note> And after that tormentingly was handled and laide on the wheele, and there head his ioints seuerally broken, &amp; so ended his lyfe for a final punishment of so heinus a deed. By which most cruell murther, &amp; rare
+<pb facs="tcp:177929:5"/>punishment (although worthy,) let all English people haue before their eyes, with the example late done, beseeching God to conuert and turne the wicked harts of all such euill disposed persons, as shall any way haue the lyke practise in minde, and not to be forgetfull of the commaundements before rehearsed, &amp; that withall wee maye haue in minde, that good saying, what so euer thou takest in hand remember the end, and thou shalte neuer doe a<g ref="char:EOLhyphen"/>misse, And so fare you well in Christ. <hi>1586.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>Aeuesham.</signed>
+            </closer>
+            <pb facs="tcp:177929:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
